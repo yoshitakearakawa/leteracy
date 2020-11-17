@@ -1,1 +1,10 @@
-# literacy
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <title>リンク</title>
+  </head>
+  <body>
+    I love <a href="https://ja.wikipedia.org">Wikipedia</a>!
+  </body>
+</html>
